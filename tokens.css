@@ -1,0 +1,12 @@
+/* Identidade Golden Bear (submarca Golden Talk, PROPOSTA) — gerado pelo agente marca em 2026-10-07 */
+:root{
+  --cor-primaria:#000132; --cor-destaque:#C8A02D; --cor-texto:#000132; --cor-texto-suave:#3D3F79;
+  --cor-fundo:#FFFFFF; --cor-fundo-alt:#F9F9F9; --cor-escura:#161748; --cor-sobre-escura:#FFFFFF; --cor-linha:#E0E0E6;
+  --cor-whatsapp:#2CC84E;
+  /* apoio (do site) */
+  --cor-lavanda:#CDCEF1; --cor-azul-medio:#3D3F79;
+  /* derivados (nao existem no site) */
+  --cor-destaque-texto:#846412; --cor-fundo-dourado:#FBF7EE;
+  --fonte-titulo:"Poppins", system-ui, sans-serif; --fonte-texto:"Poppins", system-ui, sans-serif;
+  --raio:12px; --sombra:0 6px 24px rgba(0,1,50,.12);
+}
